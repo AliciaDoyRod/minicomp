@@ -1,0 +1,135 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "gg_01",
+    "artist": "Guy Gabon",
+    "label": "L’ombre gagne (Aimé Césaire)",
+    "collection": "minicomp",
+    "location": "Musée Victor Schoelcher à Pointe-à-Pitre, Guadeloupe",
+    "_date": "Février 2015",
+    "object_type": "pochoir",
+    "thumbnail": "/img/derivatives/iiif/images/gg_01/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_01",
+    "lunr_id": 0
+  },
+  {
+    "pid": "gg_02",
+    "artist": "Guy Gabon",
+    "label": "Empreintes et traces",
+    "collection": "minicomp",
+    "location": "Musée Victor Schoelcher à Pointe-à-Pitre, Guadeloupe",
+    "_date": "Février 2015",
+    "object_type": "Land-art",
+    "thumbnail": "/img/derivatives/iiif/images/gg_02/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_02",
+    "lunr_id": 1
+  },
+  {
+    "pid": "gg_03",
+    "artist": "Guy Gabon",
+    "label": "« S.A.M.U. » Saugarde des Arbres en Milieu Urbain",
+    "collection": "minicomp",
+    "location": "Place de la Victoire, Pointe-à-Pitre, Guadeloupe",
+    "_date": "Mars 2013",
+    "object_type": "Installation in situ",
+    "thumbnail": "/img/derivatives/iiif/images/gg_03/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_03",
+    "lunr_id": 2
+  },
+  {
+    "pid": "gg_04",
+    "artist": "Guy Gabon",
+    "label": "« S.A.M.U. » Saugarde des Arbres en Milieu Urbain",
+    "collection": "minicomp",
+    "location": "Place de la Victoire, Pointe-à-Pitre, Guadeloupe",
+    "_date": "Mars 2013",
+    "object_type": "Installation in situ",
+    "thumbnail": "/img/derivatives/iiif/images/gg_04/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_04",
+    "lunr_id": 3
+  },
+  {
+    "pid": "gg_05",
+    "artist": "Guy Gabon",
+    "label": "Humanité submergée",
+    "collection": "minicomp",
+    "location": "Guadeloupe Pôle Caraïbes",
+    "_date": "Janvier 2019",
+    "object_type": "Textile art",
+    "thumbnail": "/img/derivatives/iiif/images/gg_05/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_05",
+    "lunr_id": 4
+  },
+  {
+    "pid": "gg_06",
+    "artist": "Guy Gabon",
+    "label": "Nous avons perdu le Nord, Suivons les Suds ! – We lost the North, Follow the South(s)",
+    "collection": "minicomp",
+    "location": "Clark Atlanta University art museum à Atlanta, Etats-Unis",
+    "_date": "Février 2020",
+    "object_type": "Installation in situ",
+    "thumbnail": "/img/derivatives/iiif/images/gg_06/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_06",
+    "lunr_id": 5
+  },
+  {
+    "pid": "gg_07",
+    "artist": "Guy Gabon",
+    "label": "Reliance",
+    "collection": "minicomp",
+    "location": "Clark Atlanta University art museum à Atlanta, Etats-Unis",
+    "_date": "Février 2020",
+    "object_type": "Installation in situ",
+    "thumbnail": "/img/derivatives/iiif/images/gg_07/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_07",
+    "lunr_id": 6
+  },
+  {
+    "pid": "gg_08",
+    "artist": "Guy Gabon",
+    "label": "# Tous réfugiés climatiques",
+    "collection": "minicomp",
+    "location": "Mémorial ACTE, à Pointe-à-Pitre, Guadeloupe",
+    "_date": "Novembre 2016 – Avril 2017",
+    "object_type": "Installation in situ",
+    "thumbnail": "/img/derivatives/iiif/images/gg_08/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_08",
+    "lunr_id": 7
+  },
+  {
+    "pid": "gg_09",
+    "artist": "Guy Gabon, Anne Meyer, Myriam Soulanges",
+    "label": "Yué#Sororité/ Yue Pap",
+    "collection": "minicomp",
+    "location": "Guyane",
+    "_date": "Mai 2018",
+    "object_type": "Performance",
+    "thumbnail": "/img/derivatives/iiif/images/gg_09/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_09",
+    "lunr_id": 8
+  },
+  {
+    "pid": "gg_10",
+    "artist": "Guy Gabon",
+    "label": "I[MARE]GINAIRES – « J’habite … »",
+    "collection": "minicomp",
+    "location": "Une mare du Gosier, Guadeloupe",
+    "_date": "2019",
+    "object_type": "Installation in situ",
+    "thumbnail": "/img/derivatives/iiif/images/gg_10/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/minicomp/gg_10",
+    "lunr_id": 9
+  }
+]
